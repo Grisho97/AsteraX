@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 14 - Points, Jumps, and UI Solution", "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.csproj", "{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Plugins", "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Plugins.csproj", "{ECF3DB61-F01D-B624-1E68-BEF5BEB7224B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Editor.Plugins", "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Editor.Plugins.csproj", "{A039B2E0-CC95-6C45-E304-13C467703B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Editor", "AsteraX UCP Video 14 - Points, Jumps, and UI Solution.Editor.csproj", "{B152BAAF-491D-375B-B167-8DF1AF7A09A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF3DB61-F01D-B624-1E68-BEF5BEB7224B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3DB61-F01D-B624-1E68-BEF5BEB7224B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3DB61-F01D-B624-1E68-BEF5BEB7224B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3DB61-F01D-B624-1E68-BEF5BEB7224B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A039B2E0-CC95-6C45-E304-13C467703B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A039B2E0-CC95-6C45-E304-13C467703B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A039B2E0-CC95-6C45-E304-13C467703B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A039B2E0-CC95-6C45-E304-13C467703B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B152BAAF-491D-375B-B167-8DF1AF7A09A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B152BAAF-491D-375B-B167-8DF1AF7A09A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B152BAAF-491D-375B-B167-8DF1AF7A09A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B152BAAF-491D-375B-B167-8DF1AF7A09A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A65806E1-90B2-0148-6BAE-CD337A2F0D4F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/AsteraX.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AsteraX.cs" Line="136" Column="5" />
+      <File FileName="Assets/__Scripts/PlayerShip.cs" Line="108" Column="25" />
+      <File FileName="Assets/__Scripts/ActiveOnlyDuringSomeGameStates.cs" Line="40" Column="1" />
+      <File FileName="Assets/__Scripts/GameOverPanel.cs" Line="91" Column="51" />
+      <File FileName="Assets/__Scripts/EnumFlagsAttributePropertyDrawer.cs" Line="1" Column="1" />
+      <File FileName="Assets/__Scripts/Asteroid.cs" Line="189" Column="28" />
+      <File FileName="Assets/__Scripts/JumpsGT.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AsteraX_220UCP_220Video_22014_220-_220Points_22C_220Jumps_22C_220and_220UI_220Solution PreferredExecutionTarget="Unity.Editor" />
+</Properties>
